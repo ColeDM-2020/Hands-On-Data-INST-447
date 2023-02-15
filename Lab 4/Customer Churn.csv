@@ -1,4 +1,4 @@
-Call  Failure,Complains,Subscription  Length,Seconds of Use,Frequency of use,Frequency of SMS,Distinct Called Numbers,Status,Churn
+Call_Failure,Complains,Subscription_Length,Seconds_of_Use,Frequency_of_use,Frequency_of_SMS,Distinct_Called_Numbers,Status,Churn
 8,0,38,4370,71,5,17,1,0
 0,0,39,318,5,7,4,0,0
 10,0,37,2453,60,359,24,1,0
